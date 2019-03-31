@@ -1,0 +1,35 @@
+body {
+    font-family: "Verdana", Helvetica, sans-serif;
+    font-weight: 100;
+    color: white;
+    font-size: 1.5em;
+    background: url("http://crevisio.com/images/posts/79/GkvTwvwtn/Crevisio-79-GkvTwvwtn.jpg"); 
+}
+.intro {
+    padding: 0px 40px;
+    font-size: 1.25em;
+    text-align: center;
+}
+p {
+   padding: 0 40px;
+   text-align: center;
+   font-size: 0.75em;
+}
+
+
+.logo img {
+    margin: 30px;
+    position: relative;
+    max-width: 75%;
+}
+.anythingyouwant {
+  background: url("http://i.imgur.com/FdxQ7D5.jpg");
+  background-size: 100%;
+  height: 150px;
+}
+
+.anythingyouwant:hover {
+  background:url("https://media.licdn.com/dms/image/C560BAQEywDQ0SWlVig/company-logo_200_200/0?e=2159024400&v=beta&t=WAmO2qZgLdSVzaLiSDjcMlYU_dkpfWDsma68S-_8VSU");
+  height: 200px;
+  
+}
