@@ -27,3 +27,10 @@ function crash2() {
   document.getElementById("NOOO").innerHTML = "please wait..."
   location.href = "http://crashsafari.com";
 }
+function crash3() {
+  
+  txt = "a";
+  while(1){
+      txt = txt += "a";   
+  }
+}
