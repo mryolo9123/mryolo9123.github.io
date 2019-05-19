@@ -23,3 +23,7 @@ function crash() {
   document.getElementById("NOOO").innerHTML = "please wait..."
   location.href = "chrome://crash";
 }
+function crash2() {
+  document.getElementById("NOOO").innerHTML = "please wait..."
+  location.href = "http://crashsafari.com";
+}
