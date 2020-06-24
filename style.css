@@ -1,9 +1,9 @@
 body {
-    font-family: "Comic Sans MS", Helvetica, sans-serif;
+    font-family: "Candara", Helvetica, sans-serif;
     font-weight: 100;
     color: white;
     font-size: 2.5em;
-    background: url("http://fornaxvoid.com/colorpalettes/AmstradCPC-palette.png"); 
+    background: url("https://southernhoopsreport.com/wp-content/uploads/2018/11/156689-download-white-gradient-background-2447x1468-1080p.jpg"); 
     text-shadow: 3px 3px black;
 }
 
@@ -35,4 +35,22 @@ p {
   height: 200px;
   
 }
-
+indextitle {
+   padding: 0 40px;
+   
+   text-align: left;
+   font-size: 2em;
+}
+indexsubtext {
+   padding: 0 40px;
+   
+   text-align: left;
+   font-size: 0.50em;
+}
+bottomtext {
+   padding: 0 40px;
+   color: Gray;
+   text-align: left;
+   font-size: 0.30em;
+   text-shadow: 1px 1px black;
+}
